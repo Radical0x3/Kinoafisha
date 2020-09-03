@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/index.scss"],"names":[],"mappings":"AAAA;AACA,sBAAsB;;AAEtB;AACA,kBAAkB;AAClB;AACA,mBAAmB","file":"main.css","sourcesContent":["body {\n  background: #f9f9f9; }\n\n.nav-link {\n  cursor: pointer; }\n  .nav-link:hover {\n    color: #007bff; }\n"],"sourceRoot":""}
